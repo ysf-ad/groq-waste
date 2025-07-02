@@ -95,7 +95,7 @@ Thumbs.db
 .cache/
 
 # Old ideas directory
-../old-ideas/
+old-ideas/
 
 # Logs
 *.log
